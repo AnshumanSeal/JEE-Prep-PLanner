@@ -1,0 +1,5 @@
+{
+  "name": "Base Jee PLanner app without any Login",
+  "description": "An application to help students plan their JEE preparation by inputting subjects and chapters, generating a study schedule, connecting to a calendar via .ics download, managing daily tasks, and tracking progress per chapter.",
+  "requestFramePermissions": []
+}
